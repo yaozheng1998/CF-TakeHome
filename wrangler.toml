@@ -1,0 +1,6 @@
+name = "cf_test"
+type = "javascript"
+account_id = "3431ad169c1e4a6e7b5dc3e5e9e39718"
+workers_dev = true
+route = ""
+zone_id = ""
